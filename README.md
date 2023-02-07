@@ -56,7 +56,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Deploy on Netlify
 
-[![Deploy to Netlify button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/tidbcloud/vercel-fortune500-demo)
+[![Deploy to Netlify button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/shiyuhang0/vercel-fortune500-demo)
 
 1. Click the **Deploy to Netlify** button.
 2. Click **Connect to GitHub** and authenticate your GitHub account.

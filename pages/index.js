@@ -6,6 +6,10 @@ import { Content } from "@/components/Content";
 import { Suggestions } from "@/components/Suggestions";
 import { createStyles } from "@mantine/core";
 
+export const config = {
+  runtime: "edge",
+}
+
 const useStyles = createStyles(() => ({
   main: {
     display: "flex",

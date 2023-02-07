@@ -4,7 +4,7 @@ export const config = {
 
 const TIDBCLOUD_ENV = {
   url: process.env.TIDBCLOUD_URL,
-  api_key: process.env.TIDBCLOUD_API_KEY,
+  api_key: process.env.TIDBCLOUD_API_KEY.,
   db: process.env.TIDBCLOUD_DB,
   cluster_id: process.env.TIDBCLOUD_CLUSTER_ID,
 }
